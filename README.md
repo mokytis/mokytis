@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Luke Spademan.
+
+All of my new personal projects can be found on [gitlab](https://lspade.xyz/gitlab).
+Everything here is either a fork of somebody elses project or a mirror of something on gitlab.
+
+
 <!--
 **mokytis/mokytis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
