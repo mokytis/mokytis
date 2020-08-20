@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Luke Spademan.
+My name is Luke.
 
 All of my new personal projects can be found on [gitlab](https://lspade.xyz/gitlab).
 Everything here is either a fork of somebody elses project or a mirror of something on gitlab.
