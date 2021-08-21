@@ -2,9 +2,7 @@
 
 My name is Luke.
 
-All of my new personal projects can be found on [gitlab](https://lspade.xyz/gitlab).
-Everything here is either a fork of somebody elses project or a mirror of something on gitlab.
-
+I do security stuff, break things, and write tools. Projects on here have varying level of polish: from tools I use as a part of my main workflow, to small scripts I've hacked together.
 
 <!--
 **mokytis/mokytis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
